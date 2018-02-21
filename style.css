@@ -1,0 +1,66 @@
+
+.ui.borderless.top.menu {
+  border: none;
+  box-shadow: none;
+  background-color: #dbdbdb;
+  height: 60px;
+  padding-right: 100px;
+}
+
+.dark-background {
+  background-color: #dbdbdb;
+  height: 1320px;
+}
+
+.ui.borderless.middle.menu {
+  border: none;
+  box-shadow: none;
+  padding-right: 20px;
+
+}
+.row {
+  background-color: white;
+}
+
+.ui.body.container {
+  background-color: white;
+  width: 1026px;
+}
+.ui.image.grid {
+  alignment: left;
+  padding-top: 30px;
+  padding-left: 80px;
+  padding-bottom: 20px;
+}
+
+.hr.row {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.colorblocktop {
+  padding-top: 100px;
+}
+
+p {
+  color: #555555;
+  font-size: 12px;
+}
+
+.footer.row {
+  padding-left: 30px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.grey-background {
+  background-color: #eeeeee;
+  height: 300px;
+  padding-left: 40px;
+  color: black;
+}
+
+.ui.three.column.grid.container {
+  padding-left: 30px;
+}
+
